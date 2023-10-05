@@ -1,0 +1,21 @@
+{
+    "name": "npm",
+    "dependencies": {
+      "@sanity/cli": {
+        "version": "2.35.0",
+        "overridden": false
+      },
+      "json-server": {
+        "version": "0.17.3",
+        "overridden": false
+      },
+      "npm": {
+        "version": "10.1.0",
+        "overridden": false
+      },
+      "yarn": {
+        "version": "1.22.19",
+        "overridden": false
+      }
+    }
+  }
